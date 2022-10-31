@@ -7,7 +7,7 @@ Good data organization is the foundation of any research project. It not only se
 
 Organizing a project that includes sequencing involves many components. There's the experimental setup and conditions metadata, measurements of experimental parameters, sequencing preparation and sample information, the sequences themselves and the files and workflow of any bioinformatics analysis. So much of the information of a sequencing project is digital, and we need to keep track of our digital records in the same way we have a lab notebook and sample freezer. In this lesson, we'll go through the project organization and documentation that will make an efficient bioinformatics workflow possible. Not only will this make you a more effective bioinformatics researcher, it also prepares your data and project for publication, as grant agencies and publishers increasingly require this information.
 
-In this lesson, we'll be using data from a study of experimental evolution using *E. coli*. [More information about this dataset is available here](http://www.datacarpentry.org/organization-genomics/data/). In this study there are several types of files:
+In this lesson, we'll be using data from a study of experimental evolution using *E. coli*. [More information about this dataset is available here](http://aldertzomer.github.io/organization-genomics/data/). In this study there are several types of files:
 
 - spreadsheet data from the experiment that tracks the strains and their phenotype over time
 - spreadsheet data with information on the samples that were sequenced - the names of the samples, how they were prepared and the sequencing conditions
@@ -29,10 +29,9 @@ In this lesson you will learn:
 > including the 
 > concept of genomic variation within a population. Participants should bring their laptops and plan to participate actively. 
 >
-> This lesson is part of a workshop that uses data hosted on an Amazon Machine Instance (AMI). Workshop participants will be given 
-> information on how
-> to log-in to the AMI during the workshop. Learners using these materials for self-directed study will need to set up their own
-> AMI. Information on setting up an AMI and accessing the required data is provided on the [Genomics Workshop setup page](http://www.datacarpentry.org/genomics-workshop/setup.html).
+> This lesson is part of a workshop that uses data hosted on an Cocalc instance. Workshop participants will be given 
+> information on how to log-in to the Cocalc instance during the workshop. Learners using these materials for self-directed study will need to set up their own
+> Amazon Instance (AMI). Information on setting up an AMI and accessing the required data is provided on the [Genomics Workshop setup page](http://www.aldertzomer.github.io/genomics-workshop/setup.html).
 {: .prereq}
 
 > ## For Instructors
