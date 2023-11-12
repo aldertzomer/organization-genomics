@@ -58,7 +58,7 @@ with Excel or another spreadsheet program.
 > > - Capitalization of the replicate column changes
 > > - Volume and concentration column headers have unusual (not allowed) characters
 > > - Volume, concentration, and RIN column decimal accuracy changes
-> > - The prep_date and ship_date formats are different, and prep_date has multiple formats
+> > - The prep_date and ship_date formats are different, and prep_date has multiple formats (use YYYY-MM-DD or YYYYMMDD)
 > > - Are there others not mentioned?
 > >
 > > Improvements in naming
@@ -94,7 +94,7 @@ Excel file:
 > > ## Solution
 > >
 > > 1. Samples are organized by sample\_id
-> > 2. To relate filenames use the sample\_id, and do a VLOOKUP on submission sheet
+> > 2. To relate filenames use the sample\_id, and do a VLOOKUP in Excel on submission sheet
 > > 3. The \_R1/\_R2 extensions mean "read 1" and "read 2" of each sample. These
 > > typically refer to forward and reverse reads of the same DNA fragment from
 > > the sequencer, i.e. during paired-end sequencing.
