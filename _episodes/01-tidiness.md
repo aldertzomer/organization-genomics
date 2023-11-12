@@ -78,6 +78,8 @@ Regardless of the type of data you're collecting, there are standard ways to ent
 The cardinal rules of using spreadsheet programs for data:
 
 - Leave the raw data raw - do not change it!
+  + Tip1: make for instance a `00_incoming` or `00_raw_data` folder where you **do not touch** the actual data!
+  + Tip2: make incoming files **READ ONLY** from preventing an accidental overwrite/modification!
 - Put each observation or sample in its own row.
 - Put all your variables in columns - the thing that vary between samples, like ‘strain’ or ‘DNA-concentration’.
 - Have column names be explanatory, but without spaces. Use '-', '_' or [camel case](https://en.wikipedia.org/wiki/Camel_case) instead of a space. For instance 'library-prep-method' or 'LibraryPrep'is better than 'library preparation method' or 'prep', because computers interpret spaces in particular ways.
