@@ -96,7 +96,7 @@ analysis you want to do, you may even separate the genus and species names into 
 >
 >
 > > ## Solution
-> > A full set of types of issues with spreadsheet data is at the [Data Carpentry Ecology spreadsheet lesson](atacarpentry.org/spreadsheet-ecology-lesson/). Not all are present in this example. Discuss with the group what they found. Some problems include not all data sets having the same columns, datasets split into their own tables, color to encode information, different column names, spaces in some columns names. Here is a "clean" version of the same spreadsheet:
+> > A full set of types of issues with spreadsheet data is at the [Data Carpentry Ecology spreadsheet lesson](https://datacarpentry.github.io/spreadsheet-ecology-lesson/02-common-mistakes.html). Not all are present in this example. Discuss with the group what they found. Some problems include not all data sets having the same columns, datasets split into their own tables, color to encode information, different column names, spaces in some columns names. Here is a "clean" version of the same spreadsheet:
 > >
 > >[Cleaned spreadsheet](https://raw.githubusercontent.com/datacarpentry/wrangling-genomics/gh-pages/files/Ecoli_metadata_composite.tsv)
 > >Download the file using right-click (PC)/command-click (Mac).
@@ -109,6 +109,6 @@ Organizing your data properly at this point of your experiment will help your an
 
 Fear not! If you have already started your project and it's not set up this way, there are still opportunities to make updates. One of the biggest challenges is tabular data that is not formatted so computers can use it, or has inconsistencies that make it hard to analyze.
 
-More practice on how to structure data is outlined in our [Data Carpentry Ecology spreadsheet lesson](https://datacarpentry.github.io/spreadsheet-ecology-lesson/02-common-mistakes.html/)
+More practice on how to structure data is outlined in our [Data Carpentry Ecology spreadsheet lesson](https://datacarpentry.github.io/spreadsheet-ecology-lesson/)
 
 Tools like [OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology-lesson/) can help you clean your data.
